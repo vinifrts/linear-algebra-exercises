@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.stream.IntStream;
 
-public class questaoCinco {
+public class AuthorityVectorCalculator {
     public static double[][] transpor(double[][] matriz) {
         double[][] transposta = new double[matriz[0].length][matriz.length];
         for (int i = 0; i < matriz.length; i++) {
