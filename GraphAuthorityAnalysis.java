@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.stream.IntStream;
 
-public class questaoOito {
+public class GraphAuthorityAnalysis {
     // Matriz de adjacência de exemplo
     private static final int[][] A = {
             {0, 1, 1, 0, 1, 1, 0, 0, 0, 1},
