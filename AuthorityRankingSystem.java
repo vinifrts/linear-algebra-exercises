@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class questaoSeis {
+public class AuthorityRankingSystem {
     public static double[][] transpose(double[][] matriz) {
         double[][] transposta = new double[matriz[0].length][matriz.length];
         for (int i = 0; i < matriz.length; i++) {
